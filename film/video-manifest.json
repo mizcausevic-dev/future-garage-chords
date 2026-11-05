@@ -1,0 +1,26 @@
+{
+  "title": "Future Garage Chords",
+  "study": "fg01",
+  "bpm": 132,
+  "source_audio": "preview/future-garage-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "120b0786b28abfabaf1f209d18ac66639f13af8245d894309d45e1dc815c8175",
+  "source_midi": "midi/fg01-last-platform/fg01-last-platform-combined.mid",
+  "source_midi_sha256": "a00a44ecace3631cd67eced55f8f36111902fd4481d1ae699ed541bb19f18313",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "0ed564e9744dbbfb501a464d4cf100998ca501642146b3062d7ca38d69c3ffb4",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "7cde06e320e43586708dc03869e8cf9f94b69d1ce6c4927900d7289fc1eb24a6",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "5895e32179141c7bab6bc3ff68c11641e2f7f3693f370cf737526c21926cd429",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

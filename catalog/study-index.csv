@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+fg01,Last Platform,pack-local equal-tempered pitch collection,B,132,4/4,480,32,61440,midi/fg01-last-platform/fg01-last-platform-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+fg02,Low Cloud,pack-local equal-tempered pitch collection,D,132,4/4,480,32,61440,midi/fg02-low-cloud/fg02-low-cloud-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+fg03,Rain Halo,pack-local equal-tempered pitch collection,F,132,4/4,480,32,61440,midi/fg03-rain-halo/fg03-rain-halo-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+fg04,Far Signal,pack-local equal-tempered pitch collection,C,132,4/4,480,32,61440,midi/fg04-far-signal/fg04-far-signal-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
