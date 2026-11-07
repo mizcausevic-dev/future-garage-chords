@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/future-garage-chords-midi.zip",
-      "bytes": 30129,
-      "sha256": "39ac659c4c7a6f535ae26cd8367942fcab6ba79cf12dde39c3d239f13b2b7d7f"
+      "bytes": 31116,
+      "sha256": "188627bd1ae10e7948806dd2502b4551a7e342b278fdbbc214e2140c42bfd104"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9524,
-      "sha256": "8a76d92ec375242cc48b17ae4d517184490654b6f1ea96ad54e99f84e7625bcc"
+      "bytes": 9714,
+      "sha256": "5af033f9c586a8bf027ac4d27260d17d529923270f951d1c5a2c558db095c657"
     },
     {
       "path": "midi/fg01-last-platform/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "d5fdb3251c79a7baefad6613275f91e994b36fe77e851193c2ab1e8b907713e6"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/future-garage-chords-simple-synth-preview.mp3",
       "bytes": 1410029,
       "sha256": "120b0786b28abfabaf1f209d18ac66639f13af8245d894309d45e1dc815c8175"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3883,
-      "sha256": "b42700d3950ef2612442aa69ce54637711d40a0bf47dcd798eb2217307be82e4"
+      "bytes": 3998,
+      "sha256": "bd5b25be90f8e0070e1a3858e7777f149c1d80ab20a0f95a834033ae4cafbebd"
     },
     {
       "path": "social/instagram/caption.txt",
